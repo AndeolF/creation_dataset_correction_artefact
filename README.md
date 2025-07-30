@@ -1,6 +1,6 @@
 # CREATION_DATASET_CORRECTION_ARTEFACT
 
-This is a repository created by Andéol FOURNIER during an internship under the supervision of Sylvain Baillet, PhD.
+This is a deposit made by Andéol FOURNIER, undergraduate research trainee in the Brain Imaging Centre Laboratory - Neuroimaging and Neuroinformatics Unit at the Montreal Neurological Institute, Faculty of Medicine, McGill University under the supervision of Sylvain Baillet, Phd.
 
 # 📦 Requirements
 
