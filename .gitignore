@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+/data
+
+/data_05s_downsample
+
+/data_numpy_05s_windows
+
+
+**/__pycache__/

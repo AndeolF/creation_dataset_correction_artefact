@@ -1,0 +1,21 @@
+[project]
+name = "creation-dataset-correction-artefact"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy (>=2.2.6,<3.0.0)",
+    "joblib (>=1.5.1,<2.0.0)",
+    "scikit-learn (>=1.7.0,<2.0.0)",
+    "pycatch22 (>=0.4.5,<0.5.0)",
+    "mne (>=1.9.0,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
